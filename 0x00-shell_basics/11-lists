@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -maxdepth 1 -ls ; cd .. ; find . -maxdepth 1 -ls ; cd /boot ; find . -maxdepth 1 -ls
